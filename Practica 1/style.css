@@ -1,0 +1,34 @@
+#titulo {
+    font-size: x-large;
+    font-weight: lighter;
+    font-family: system-ui;
+    margin-left: 50px;
+    color:whitesmoke;
+}
+
+body {
+    font-size: medium;
+    font-weight: lighter;
+    font-family: system-ui;
+    background-color: rgb(93, 93, 238);
+    margin-left: 60px;
+    color: rgb(250, 250, 250);
+}
+
+.bar {
+
+    fill: rgb(182, 242, 92)
+}
+
+#slider-time {
+    display: flex;
+    margin-left: 60px;
+    align-items: left; 
+}
+
+#anyo{
+    
+    margin-left: 0px;
+    align-items: left; 
+}
+
