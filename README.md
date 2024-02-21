@@ -1,4 +1,4 @@
-# d3-exploracion-de-datos
+# d3_exploracion_de_datos
 Exploración de datos con d3.js
 
 1. Representar la gráfica de barras y conectarlas al slider para que cada año represente la distribución de mundiales de cada selección. 
